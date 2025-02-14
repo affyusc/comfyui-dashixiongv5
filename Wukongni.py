@@ -14,7 +14,7 @@ class Wukonghuatiao:
         }
     RETURN_TYPES = ("FLOAT",)
     FUNCTION = "run"
-    CATEGORY = "WUKONG/滑条"
+    CATEGORY = "WUKONG/其他"
     INPUT_IS_LIST = False
     OUTPUT_IS_LIST = (False,)
     def run(self, 浮点权重):
